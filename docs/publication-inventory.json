@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-28",
+  "project": "06-LAPS-School-ERP",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 487,
+      "sha256": "64b6f991e7247c0f742e037de7a6b5b0a09943cb89e0ae9174fffef99c2b745a"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 317,
+      "sha256": "6aba688207846b67a565fe4047449842b6ee9f61ecfe2a6ca4290f233895c1cd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 43880,
+      "sha256": "f6c2e871332e4d0139fe7dce41725fb245f0735aa25fd62835de34f057b530a8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2340,
+      "sha256": "a4b0fcbd84bc345560c32ea65dd689eb925fbcb1061bc4416439eac7a246f0ab"
+    },
+    {
+      "path": "addons/school_operations/__init__.py",
+      "bytes": 49,
+      "sha256": "a0194ed682ebbbeaf2042a7c4a6c4ad885be67b9249c801a8f0760de453ffde0"
+    },
+    {
+      "path": "addons/school_operations/__manifest__.py",
+      "bytes": 581,
+      "sha256": "42a77d8f05c25dc6be1b528962f7365e18b0aac374f2b34eb968aec4eaf3b632"
+    },
+    {
+      "path": "addons/school_operations/common.py",
+      "bytes": 1833,
+      "sha256": "9276ea7658cd8a0a02b3d4976447fbdec714963cc2d64c4bb41afa893f1d8835"
+    },
+    {
+      "path": "addons/school_operations/controllers/__init__.py",
+      "bytes": 40,
+      "sha256": "a5820fdac51c6c60ed10f5b61618f29ed13ded8d76a6d5526101d1db33d0c70b"
+    },
+    {
+      "path": "addons/school_operations/controllers/bank.py",
+      "bytes": 1370,
+      "sha256": "8f0e6dc4bf6f243a3f6d92fb1b0cbe237f01d68875e49ebbf74a6475c1a82e27"
+    },
+    {
+      "path": "addons/school_operations/controllers/main.py",
+      "bytes": 83,
+      "sha256": "ce0cc9bf68080c89f26528fdb67f2055a6d2f47d6f87b44fcb66a807a31c330e"
+    },
+    {
+      "path": "addons/school_operations/data/cron.xml",
+      "bytes": 429,
+      "sha256": "47137b0d43d1d08616c46127718bdce2fe2c6f401ab75966e47bf573939128c3"
+    },
+    {
+      "path": "addons/school_operations/data/sequence.xml",
+      "bytes": 458,
+      "sha256": "23fcee5c5f5997539c44dc8f377b23791d38d3eba8be409506f309d2c2412239"
+    },
+    {
+      "path": "addons/school_operations/demo/fixtures.xml",
+      "bytes": 2624,
+      "sha256": "e23088185df964fc527e6a8ec1ca117038761dfba918f416c076d831d3cd3724"
+    },
+    {
+      "path": "addons/school_operations/models/__init__.py",
+      "bytes": 46,
+      "sha256": "a60484266a42b5a949b6568810e4e496222d0731899cf164fa2e5bea6021abc5"
+    },
+    {
+      "path": "addons/school_operations/models/bank.py",
+      "bytes": 7263,
+      "sha256": "e7758a6a3bc5663e56ce300de76aa24dd17da7483716622894818b24266c02c1"
+    },
+    {
+      "path": "addons/school_operations/models/operations.py",
+      "bytes": 19724,
+      "sha256": "7ac045977c444c8a90a066834c1c736151fc9b9defef27b0c03f46d99269f094"
+    },
+    {
+      "path": "addons/school_operations/reports/summary.xml",
+      "bytes": 1193,
+      "sha256": "b590d3db5b4f98ea657ac3c39bdac7a0d9d5567fbd8359ac18b6351e1e3a543f"
+    },
+    {
+      "path": "addons/school_operations/security/campus.xml",
+      "bytes": 3238,
+      "sha256": "cb75045436b36003dfbcc1df26f5610b4a0e8492ff4de22c971a9dc4a7311027"
+    },
+    {
+      "path": "addons/school_operations/security/groups.xml",
+      "bytes": 1157,
+      "sha256": "0554a33665b6b6f55a3b724ccc596b6598f90ba5859028608c6aceecb9ea6433"
+    },
+    {
+      "path": "addons/school_operations/security/ir.model.access.csv",
+      "bytes": 4487,
+      "sha256": "73216ef69b4b0b5d090281f8d99f6cac120dd9c2b3295a3b0ecba6a5b9d6c570"
+    },
+    {
+      "path": "addons/school_operations/security/rules.xml",
+      "bytes": 3794,
+      "sha256": "01ebf830071ac8d4cb29353d4261a71555ae3f4af30ba00639713752df80d36b"
+    },
+    {
+      "path": "addons/school_operations/views/account.xml",
+      "bytes": 1127,
+      "sha256": "1017657c0d2ccb2686fe692a90c2173d1fe0792e8bd6096160c923123e5e8715"
+    },
+    {
+      "path": "addons/school_operations/views/operations.xml",
+      "bytes": 13027,
+      "sha256": "29c2e3c7eed169603768336bfa2b09c97b0b96c19ee383fd87e0b4ee1fc5dca7"
+    },
+    {
+      "path": "docker/compose.yaml",
+      "bytes": 1374,
+      "sha256": "c0f9f6c22bd53865719a37f586547f87965ed7fedcfb7d71796b787c31991700"
+    },
+    {
+      "path": "docker/images.lock.json",
+      "bytes": 340,
+      "sha256": "70c816ea3a9dd663e882a70c7c0bef020a407434d50d22336a911b27d822eb75"
+    },
+    {
+      "path": "docs/FEATURES.md",
+      "bytes": 2535,
+      "sha256": "274b0c5927afe8090526bd74628bd43c44bfe384ccfaeb12d5f6eb6a23feb2ff"
+    },
+    {
+      "path": "docs/VERIFICATION.md",
+      "bytes": 831,
+      "sha256": "083f33615715caeee1122ee365051cfdaed36e8e233a252db9432b92afd7f88a"
+    },
+    {
+      "path": "scripts/bootstrap.py",
+      "bytes": 1387,
+      "sha256": "41451d34e32ede9e5d51adc5d477017f2c1e3bbea9d4bcd1053e5bbf2765290b"
+    },
+    {
+      "path": "scripts/lab.ps1",
+      "bytes": 1290,
+      "sha256": "c8bfa348ca7c5122906c26b1bd1fbe7f08a055fba78a6d163e59145f3d45f115"
+    },
+    {
+      "path": "scripts/publication_audit.py",
+      "bytes": 7029,
+      "sha256": "f0166f392e5abfd13f183db6f257e7d64ff2e122d0db12cbf76724246a721c5f"
+    },
+    {
+      "path": "scripts/seed.py",
+      "bytes": 534,
+      "sha256": "d85c98392d054d4e04f3d4c9c956fac459e79da4fcbd952fe7fe5a756f292f83"
+    },
+    {
+      "path": "scripts/simulate_bank.py",
+      "bytes": 1172,
+      "sha256": "e14fac170440bf960afe23628b9eab196da96efc77ba0516b976051338100095"
+    }
+  ],
+  "excluded": [],
+  "symlinks": [],
+  "findings": []
+}
